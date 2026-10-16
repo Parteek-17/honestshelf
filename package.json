@@ -1,0 +1,10 @@
+{
+  "name": "honestshelf",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "HonestShelf: honest user reviews for daily essentials.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

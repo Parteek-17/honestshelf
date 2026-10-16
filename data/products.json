@@ -1,0 +1,646 @@
+[
+  {
+    "id": "parle-g",
+    "name": "Parle-G Biscuits",
+    "brand": "Parle",
+    "category": "Biscuits",
+    "size": "250 g",
+    "price": 25,
+    "image": "/images/parle-g.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901719123870",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 454,
+        "fat": 13,
+        "saturatedFat": 6,
+        "carbohydrates": 77.3,
+        "sugars": 25,
+        "fiber": null,
+        "protein": 7,
+        "salt": null
+      },
+      "nutriScore": "D",
+      "nova": null,
+      "additives": [],
+      "allergens": [],
+      "traces": [],
+      "palmOil": null,
+      "ingredients": null,
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901719100956",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "good-day",
+    "name": "Good Day Cashew Cookies",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "size": "200 g",
+    "price": 40,
+    "image": "/images/good-day.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901063093287",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 504,
+        "fat": 24,
+        "saturatedFat": 11,
+        "carbohydrates": 65,
+        "sugars": 22,
+        "fiber": 0,
+        "protein": 7,
+        "salt": null
+      },
+      "nutriScore": "E",
+      "nova": 4,
+      "additives": [
+        {
+          "code": "E322",
+          "name": "Lecithins",
+          "purpose": "emulsifier"
+        },
+        {
+          "code": "E471",
+          "name": "Mono- and diglycerides of fatty acids",
+          "purpose": "emulsifier"
+        },
+        {
+          "code": "E472e",
+          "name": "DATEM",
+          "purpose": "emulsifier"
+        },
+        {
+          "code": "E500",
+          "name": "Sodium carbonates",
+          "purpose": "raising agent"
+        },
+        {
+          "code": "E503",
+          "name": "Ammonium carbonates",
+          "purpose": "raising agent"
+        }
+      ],
+      "allergens": [
+        "gluten",
+        "milk",
+        "nuts"
+      ],
+      "traces": [],
+      "palmOil": "yes",
+      "ingredients": "REFINED WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL (PALM), CASHEW NUTS (4.5%), BUTTER (3%), INVERT SYRUP, MILK SOLIDS, RAISING AGENTS (INS 503, INS 500), EDIBLE COMMON SALT AND EMULSIFIERS (INS 322, INS 471, INS 472e)",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901063093287",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "marie-gold",
+    "name": "Marie Gold",
+    "brand": "Britannia",
+    "category": "Biscuits",
+    "size": "250 g",
+    "price": 35,
+    "image": "/images/marie-gold.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901063023901",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 445,
+        "fat": 10.7,
+        "saturatedFat": 5.2,
+        "carbohydrates": 78.9,
+        "sugars": 21.9,
+        "fiber": null,
+        "protein": 8.4,
+        "salt": 0.8
+      },
+      "nutriScore": "E",
+      "nova": 4,
+      "additives": [
+        {
+          "code": "E150d",
+          "name": "Sulphite ammonia caramel",
+          "purpose": "colour"
+        },
+        {
+          "code": "E223",
+          "name": "Sodium metabisulphite",
+          "purpose": "preservative"
+        },
+        {
+          "code": "E472e",
+          "name": "DATEM",
+          "purpose": "emulsifier"
+        },
+        {
+          "code": "E500",
+          "name": "Sodium carbonates",
+          "purpose": "raising agent"
+        },
+        {
+          "code": "E503",
+          "name": "Ammonium carbonates",
+          "purpose": "raising agent"
+        }
+      ],
+      "allergens": [
+        "gluten",
+        "milk",
+        "sulphites"
+      ],
+      "traces": [],
+      "palmOil": "yes",
+      "ingredients": "REFINED WHEAT FLOUR (MAIDA)(73%), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, MILK SOLIDS, RAISING AGENTS [503(ii) & 500 (ii)], IODIZED SALT, EMULSIFIER(472e), CALCIUM SALT, DOUGH CONDITIONER(223), VITAMINS*, FERROUS SALT AND POTASSIUM IODATE. CONTAINS PERMITTED NATURAL COLOUR (150d) AND ADDED FLAVOURS NATURE IDENTICAL & ARTIFICIAL (MILK & VANILLA) FLAVOURING SUBSTANCES] (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SULPHITE.",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901063023901",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "maggi",
+    "name": "Maggi 2-Minute Masala Noodles",
+    "brand": "Nestle",
+    "category": "Noodles",
+    "size": "70 g",
+    "price": 14,
+    "image": "/images/maggi.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901058851304",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 427,
+        "fat": 15.7,
+        "saturatedFat": 6.8,
+        "carbohydrates": 63.5,
+        "sugars": 1.2,
+        "fiber": 3.6,
+        "protein": 8,
+        "salt": 2.9
+      },
+      "nutriScore": null,
+      "nova": 4,
+      "additives": [
+        {
+          "code": "E412",
+          "name": "Guar gum",
+          "purpose": "thickener"
+        },
+        {
+          "code": "E451",
+          "name": "Triphosphates",
+          "purpose": "stabiliser"
+        },
+        {
+          "code": "E500",
+          "name": "Sodium carbonates",
+          "purpose": "raising agent"
+        }
+      ],
+      "allergens": [
+        "gluten",
+        "mustard",
+        "peanuts",
+        "soybeans"
+      ],
+      "traces": [
+        "milk"
+      ],
+      "palmOil": "yes",
+      "ingredients": "Wheat flour, Palm oil, Salt, Wheat gluten, calcium carbonate, Thickeners(508 & 412), Acidity regulators (501i & 500i), Humectant (451i), Masala Tastemaker (hydrolysed groundnut protein, mixed spices, Noodle powder, Palm oil, Salt, Wheat gluten, Calcium carbonate, Thickeners (508 & 412), acidity regulators (501i & 500i), Sugar, Edible starch, Ferric pyrophosphate)",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901058851304",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "yippee",
+    "name": "YiPPee! Magic Masala Noodles",
+    "brand": "Sunfeast",
+    "category": "Noodles",
+    "size": "70 g",
+    "price": 15,
+    "image": "/images/yippee.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901725005856",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 460,
+        "fat": 20,
+        "saturatedFat": 10.7,
+        "carbohydrates": 62.7,
+        "sugars": 3,
+        "fiber": null,
+        "protein": 9,
+        "salt": 3.1
+      },
+      "nutriScore": null,
+      "nova": null,
+      "additives": [],
+      "allergens": [],
+      "traces": [],
+      "palmOil": null,
+      "ingredients": null,
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901725116736",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "lays-classic",
+    "name": "Lay's Classic Salted",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "size": "52 g",
+    "price": 20,
+    "image": "/images/lays-classic.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901491101837",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 554,
+        "fat": 35.5,
+        "saturatedFat": 14,
+        "carbohydrates": 51.7,
+        "sugars": 2.6,
+        "fiber": 0,
+        "protein": 7,
+        "salt": 0.5
+      },
+      "nutriScore": "D",
+      "nova": 4,
+      "additives": [
+        {
+          "code": "E551",
+          "name": "Silicon dioxide",
+          "purpose": "anti-caking agent"
+        },
+        {
+          "code": "E627",
+          "name": "Disodium guanylate",
+          "purpose": "flavour enhancer"
+        },
+        {
+          "code": "E631",
+          "name": "Disodium inosinate",
+          "purpose": "flavour enhancer"
+        }
+      ],
+      "allergens": [],
+      "traces": [],
+      "palmOil": "yes",
+      "ingredients": "Potato, Edible Vegetable Oil (Palmolein Oil), &quot;Seasoning (Maltodextrin, lodised Salt, &quot;Spices & Condiments, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Anticaking Agent (551), Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm)). &quot;As flavouring agent. &quot;Contains Onion & Garlic",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901491101837",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "kurkure",
+    "name": "Kurkure Masala Munch",
+    "brand": "Kurkure",
+    "category": "Snacks",
+    "size": "90 g",
+    "price": 20,
+    "image": "/images/kurkure.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901491100519",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 557,
+        "fat": 33.7,
+        "saturatedFat": 7.7,
+        "carbohydrates": 57.7,
+        "sugars": 2.2,
+        "fiber": 0,
+        "protein": 6,
+        "salt": 2
+      },
+      "nutriScore": "E",
+      "nova": 4,
+      "additives": [
+        {
+          "code": "E160c",
+          "name": "Paprika extract",
+          "purpose": "colour"
+        },
+        {
+          "code": "E296",
+          "name": "Malic acid",
+          "purpose": "acidity regulator"
+        },
+        {
+          "code": "E330",
+          "name": "Citric acid",
+          "purpose": "acidity regulator"
+        },
+        {
+          "code": "E334",
+          "name": "Tartaric acid",
+          "purpose": "acidity regulator"
+        }
+      ],
+      "allergens": [],
+      "traces": [],
+      "palmOil": "yes",
+      "ingredients": "Cereal Products (66%) (Rice Meal (43.5%), Corn Meal (23%)), Edible Vegetable Oil (Palmolein),*Seasoning (~Spices and Condiments, lodised Salt, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Black Salt, Tomato Powder, Acidity Regulators (330, 296, 334), Colour(160c), Maltodextrin) , Gram Meal (0.5%).",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901491100519",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "haldiram-bhujia",
+    "name": "Aloo Bhujia",
+    "brand": "Haldiram's",
+    "category": "Snacks",
+    "size": "200 g",
+    "price": 55,
+    "image": "/images/haldiram-bhujia.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8904004400731",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 569,
+        "fat": 37.5,
+        "saturatedFat": 16.4,
+        "carbohydrates": 47.7,
+        "sugars": 0,
+        "fiber": 4,
+        "protein": 9,
+        "salt": 2.5
+      },
+      "nutriScore": "E",
+      "nova": 4,
+      "additives": [
+        {
+          "code": "E330",
+          "name": "Citric acid",
+          "purpose": "acidity regulator"
+        }
+      ],
+      "allergens": [
+        "gluten",
+        "milk"
+      ],
+      "traces": [],
+      "palmOil": "yes",
+      "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Bengal Gram Flour (Besan), Potato Flakes, Potato Starch, Tapioca Starch, Tepary Beans (Moth Dal) Flour, lodised Salt, Red Chilli Powder, Black Salt, Acidity Regulator (INS 330), Black Pepper, Clove, Dried Ginger Powder, Dried Garlic Powder, Cumin Powder, Bay Leaf, Nutmeg, Cinnamon, Turmeric, Mint Leaves, Natural Flavours & Natural Flavouring Substances & Nature Identical Flavouring Substances. Allergen: May Contains Wheat, Milk, Nut & Soy.",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8904004400731",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "tata-salt",
+    "name": "Tata Salt",
+    "brand": "Tata",
+    "category": "Staples",
+    "size": "1 kg",
+    "price": 28,
+    "image": "/images/tata-salt.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8904043901015",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "id": "aashirvaad-atta",
+    "name": "Aashirvaad Whole Wheat Atta",
+    "brand": "Aashirvaad",
+    "category": "Staples",
+    "size": "5 kg",
+    "price": 270,
+    "image": "/images/aashirvaad-atta.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901725121143",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 369,
+        "fat": 1.8,
+        "saturatedFat": null,
+        "carbohydrates": 77.4,
+        "sugars": 5.6,
+        "fiber": 11.1,
+        "protein": 10.8,
+        "salt": null
+      },
+      "nutriScore": null,
+      "nova": 1,
+      "additives": [],
+      "allergens": [
+        "gluten"
+      ],
+      "traces": [],
+      "palmOil": "no",
+      "ingredients": "Whole Wheat",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901725121129",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "amul-butter",
+    "name": "Amul Butter",
+    "brand": "Amul",
+    "category": "Dairy",
+    "size": "100 g",
+    "price": 58,
+    "image": "/images/amul-butter.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901262010016",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 g",
+      "nutrients": {
+        "energyKcal": 714.3,
+        "fat": 78.6,
+        "saturatedFat": 50,
+        "carbohydrates": 0,
+        "sugars": 0,
+        "fiber": 0,
+        "protein": 0,
+        "salt": 2.1
+      },
+      "nutriScore": "E",
+      "nova": 4,
+      "additives": [
+        {
+          "code": "E160b",
+          "name": "Annatto",
+          "purpose": "colour"
+        }
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "traces": [],
+      "palmOil": "no",
+      "ingredients": "Butter, common salt. CONTAINS PERMITTED NATURAL COLOUR [ANNATTO]",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901262010016",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "amul-taaza",
+    "name": "Amul Taaza Toned Milk",
+    "brand": "Amul",
+    "category": "Dairy",
+    "size": "500 ml",
+    "price": 28,
+    "image": "/images/amul-taaza.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901262150217",
+      "license": "CC BY-SA 3.0"
+    },
+    "nutrition": {
+      "per": "100 ml",
+      "nutrients": {
+        "energyKcal": 58.2,
+        "fat": 3,
+        "saturatedFat": 2,
+        "carbohydrates": 4.8,
+        "sugars": 4.8,
+        "fiber": null,
+        "protein": 3,
+        "salt": 0.1
+      },
+      "nutriScore": "C",
+      "nova": 1,
+      "additives": [],
+      "allergens": [
+        "milk"
+      ],
+      "traces": [],
+      "palmOil": "maybe",
+      "ingredients": "Milk (Fat 3.0% minimum, SNF 8.5% minimum)",
+      "source": {
+        "name": "Open Food Facts",
+        "url": "https://world.openfoodfacts.org/product/8901262150217",
+        "license": "ODbL"
+      }
+    }
+  },
+  {
+    "id": "tata-tea",
+    "name": "Tata Tea Premium",
+    "brand": "Tata",
+    "category": "Beverages",
+    "size": "250 g",
+    "price": 150,
+    "image": "/images/tata-tea.jpg",
+    "imageCredit": {
+      "source": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/product/8901052010318",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "id": "surf-excel",
+    "name": "Surf Excel Easy Wash",
+    "brand": "Surf Excel",
+    "category": "Home care",
+    "size": "1 kg",
+    "price": 140,
+    "image": "/images/surf-excel.jpg",
+    "imageCredit": {
+      "source": "Open Products Facts",
+      "url": "https://world.openproductsfacts.org/product/8909106026346",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "id": "vim-bar",
+    "name": "Vim Dishwash Bar",
+    "brand": "Vim",
+    "category": "Home care",
+    "size": "200 g",
+    "price": 20
+  },
+  {
+    "id": "lifebuoy",
+    "name": "Lifebuoy Total 10 Soap",
+    "brand": "Lifebuoy",
+    "category": "Personal care",
+    "size": "125 g",
+    "price": 38
+  },
+  {
+    "id": "dettol-soap",
+    "name": "Dettol Original Soap",
+    "brand": "Dettol",
+    "category": "Personal care",
+    "size": "125 g",
+    "price": 45
+  },
+  {
+    "id": "colgate",
+    "name": "Colgate Strong Teeth",
+    "brand": "Colgate",
+    "category": "Personal care",
+    "size": "200 g",
+    "price": 110
+  }
+]

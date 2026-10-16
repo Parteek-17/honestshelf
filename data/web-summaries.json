@@ -1,0 +1,52 @@
+{
+  "maggi": {
+    "overview": "Nestle Maggi 2‑Minute Masala Noodles (70 g) is a fortified instant noodle sold across India.",
+    "sections": {
+      "praised": [
+        {
+          "text": "Manufacturer states each pack contains 15 % of daily iron requirement to address iron deficiency.",
+          "cites": [
+            1
+          ]
+        }
+      ],
+      "criticised": [
+        {
+          "text": "2015 FSSAI order cited lead levels above 2.5 ppm in several batches, leading to state‑level recalls and product withdrawal.",
+          "cites": [
+            2
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "2015 FSSAI recall order directed withdrawal of all 9 approved variants due to lead contamination and misleading “No added MSG” claim.",
+          "cites": [
+            2
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "text": "Product is fortified with iron as per Nestle’s marketing claim.",
+          "cites": [
+            1
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Nestle India product page",
+        "url": "https://www.nestle.in/brands/maggi2-minutenoodles",
+        "site": "nestle.in"
+      },
+      {
+        "title": "FSSAI recall order, 5 June 2015",
+        "url": "https://fssai.gov.in/upload/advisories/2018/02/5a93f6a4ded6dOrder_Nestle.pdf",
+        "site": "fssai.gov.in"
+      }
+    ],
+    "generatedAt": "2026-10-16T03:10:51.921Z"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s1",
+    "productId": "parle-g",
+    "name": "Demo user",
+    "rating": 5,
+    "value": 5,
+    "quality": 4,
+    "title": "Best with chai",
+    "body": "Sample review: cheap, filling, and goes perfectly with evening tea. Pack stays fresh if you close it properly.",
+    "helpful": 3,
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "sample": true,
+    "source": "Local kirana store"
+  },
+  {
+    "id": "s2",
+    "productId": "parle-g",
+    "name": "Demo user 2",
+    "rating": 4,
+    "value": 5,
+    "quality": 3,
+    "title": "Good value, slightly smaller pack",
+    "body": "Sample review: taste is the same as always, but the pack feels lighter than before. Still great value for money.",
+    "helpful": 1,
+    "createdAt": "2026-10-05T12:30:00.000Z",
+    "sample": true,
+    "source": "Blinkit"
+  },
+  {
+    "id": "s3",
+    "productId": "maggi",
+    "name": "Demo user",
+    "rating": 4,
+    "value": 4,
+    "quality": 4,
+    "title": "Quick hostel dinner",
+    "body": "Sample review: takes closer to four minutes than two, but the masala tastemaker is still the best part.",
+    "helpful": 2,
+    "createdAt": "2026-10-03T20:15:00.000Z",
+    "sample": true,
+    "source": "Zepto"
+  },
+  {
+    "id": "s4",
+    "productId": "surf-excel",
+    "name": "Demo user 3",
+    "rating": 3,
+    "value": 3,
+    "quality": 4,
+    "title": "Cleans well, pricey",
+    "body": "Sample review: removes everyday stains easily, but there are cheaper powders that do almost the same job.",
+    "helpful": 0,
+    "createdAt": "2026-10-07T08:45:00.000Z",
+    "sample": true,
+    "source": "Amazon"
+  }
+]
